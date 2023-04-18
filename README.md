@@ -1,2 +1,2 @@
 # Scraper to scrape urls from companyrescue and save in csv format
-![image](https://user-images.githubusercontent.com/80507817/232883139-2df76f42-9e9f-4b2e-8844-85153ab04065.png)
+![image](https://user-images.githubusercontent.com/80507817/232883718-2f3e190b-1322-41e1-bcd7-59b517b7d637.png)
